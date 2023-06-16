@@ -1,0 +1,12 @@
+C:\Users\Frank\OneDrive\Repositories\ProcessSlayer\Core\x64\Debug\Core.vcxproj.AssemblyReference.cache
+C:\Users\Frank\OneDrive\Repositories\ProcessSlayer\Core\x64\Debug\Ijwhost.dll
+C:\Users\Frank\OneDrive\Repositories\ProcessSlayer\Core\x64\Debug\Core.dll
+C:\Users\Frank\OneDrive\Repositories\ProcessSlayer\Core\x64\Debug\Core.deps.json
+C:\Users\Frank\OneDrive\Repositories\ProcessSlayer\Core\x64\Debug\Core.genruntimeconfig.cache
+C:\Users\Frank\OneDrive\Repositories\ProcessSlayer\Core\x64\Debug\Core.runtimeconfig.json
+C:\Users\francisco.nabas\OneDrive\Repositories\ProcessSlayer\Core\x64\Debug\Core.vcxproj.AssemblyReference.cache
+C:\Users\francisco.nabas\OneDrive\Repositories\ProcessSlayer\Core\x64\Debug\Ijwhost.dll
+C:\Users\francisco.nabas\OneDrive\Repositories\ProcessSlayer\Core\x64\Debug\Core.dll
+C:\Users\francisco.nabas\OneDrive\Repositories\ProcessSlayer\Core\x64\Debug\Core.deps.json
+C:\Users\francisco.nabas\OneDrive\Repositories\ProcessSlayer\Core\x64\Debug\Core.genruntimeconfig.cache
+C:\Users\francisco.nabas\OneDrive\Repositories\ProcessSlayer\Core\x64\Debug\Core.runtimeconfig.json

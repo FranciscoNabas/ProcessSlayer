@@ -1,0 +1,8 @@
+.vs/
+.vs/*
+.vscode/
+.vscode/*
+bin/
+bin/*
+obj/
+obj*
